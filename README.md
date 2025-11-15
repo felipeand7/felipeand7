@@ -1,3 +1,24 @@
+<p align="center">
+  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
+    <defs>
+      <linearGradient id="waveGradientTop" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#6366f1"/>
+        <stop offset="100%" stop-color="#22c55e"/>
+      </linearGradient>
+    </defs>
+    <style>
+      .wave-top {
+        animation: moveWaveTop 12s linear infinite;
+      }
+      @keyframes moveWaveTop {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-200px); }
+      }
+    </style>
+    <path class="wave-top" fill="url(#waveGradientTop)" d="M0,80 C 300,120 900,40 1200,80 L 1200,0 L 0,0 Z"></path>
+  </svg>
+</p>
+
 <div align="center">
 
 # 👋 Hi There! <img src="https://komarev.com/ghpvc/?username=felipeand7&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/felipeand7?label=Followers&style=for-the-badge&color=22c55e" alt="followers" />
@@ -175,5 +196,26 @@ Repositório com minha primeira atividade da faculdade, explorando fundamentos d
 **🌟 Always exploring new technologies and pushing the boundaries of what's possible with code!**
 
 ---
+
+<p align="center">
+  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
+    <defs>
+      <linearGradient id="waveGradientBottom" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#22c55e"/>
+        <stop offset="100%" stop-color="#6366f1"/>
+      </linearGradient>
+    </defs>
+    <style>
+      .wave-bottom {
+        animation: moveWaveBottom 12s linear infinite;
+      }
+      @keyframes moveWaveBottom {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(200px); }
+      }
+    </style>
+    <path class="wave-bottom" fill="url(#waveGradientBottom)" d="M0,40 C 300,0 900,80 1200,40 L 1200,120 L 0,120 Z"></path>
+  </svg>
+</p>
 
 **© 2025 Felipe Andrade | Built with ❤️ and ☕**
