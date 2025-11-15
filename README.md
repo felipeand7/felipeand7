@@ -78,13 +78,64 @@ Meu objetivo é atuar como desenvolvedor **Front-End** júnior, criando interfac
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:-----------|:---------------|:---------------|:-------:|
+| **Animais Fantásticos** | Projeto final do curso de JavaScript da Origamid, com animações, navegação dinâmica e módulos JS organizados. | `HTML` `CSS` `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Animais-Fant-sticos.github.io) |
+| **Bikcraft Elétrica** | Versão de site para venda de bicicletas elétricas, focando em layout responsivo e boas práticas de HTML e CSS. | `HTML` `CSS` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/bikcraft-eletrica.github.io) |
+| **Bikcraft** | Meu primeiro site completo, criado no curso da Origamid, praticando estruturação de páginas, grid e tipografia. | `HTML` `CSS` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/bikcraft) |
 | **LinkBios** | Página de links estilo Linktree para centralizar redes sociais e contatos. | `HTML` `CSS` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/LinkBios) |
-| **react-sass** | Projeto em React com SASS para praticar componentização e organização de estilos. | `React` `JavaScript` `SASS` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/react-sass) |
-| **desafio-front** | Desafio front-end em TypeScript focado em boas práticas e estruturação de código. | `TypeScript` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/desafio-front) |
-| **Estudos-react** | Repositório de estudos explorando conceitos e componentes em React. | `React` `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Estudos-react) |
-| **Projeto_Escalonamento_SO** | Projeto acadêmico simulando algoritmos de escalonamento de processos em Sistemas Operacionais. | `Java` (acadêmico) | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Projeto_Escalonamento_SO) |
+| **Projeto_Escalonamento_SO** | Projeto acadêmico simulando algoritmos de escalonamento de processos em Sistemas Operacionais (UniFG). | `Java` (acadêmico) | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Projeto_Escalonamento_SO) |
 
 </div>
+
+---
+
+<details>
+<summary><b>💼 Experience & Academic Projects</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🍔 Best-Foods – React</h3>
+<p><strong>Projeto Pessoal</strong><br/>
+📅 2023 - Presente</p>
+
+<p align="justify">
+Best-Foods é um site de delivery de comida desenvolvido em React, onde aprimorei minhas habilidades com componentização, props e hooks como <code>useState</code> e <code>useEffect</code>, além de boas práticas de organização de código.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>✅ Lista de Tarefas – Angular & NodeJS</h3>
+<p><strong>Projeto Acadêmico • UniFG</strong><br/>
+📅 2024</p>
+
+<p align="justify">
+Aplicação CRUD de lista de tarefas desenvolvida em equipe, utilizando Angular no front-end e NodeJS com Express no back-end. Atuei dando suporte aos membros novatos no front e contribuindo em parte do CRUD no servidor.
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 Atividades-Faculdade</h3>
+<p><strong>UniFG • Exercícios Acadêmicos</strong><br/>
+📅 2024</p>
+
+<p align="justify">
+Repositório com minha primeira atividade da faculdade, explorando fundamentos de programação e lógica em Java, como parte da disciplina de introdução à programação.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
