@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://ifbaiano.edu.br/portal/wp-content/themes/ReitoriaIfbaianoPortal/imagens/marca-if-baiano.svg" alt="IF Baiano" width="100%" />
-
 ### I'm Felipe Andrade
 
 <a href="https://git.io/typing-svg">
@@ -11,10 +9,18 @@
   />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=felipeand7&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" /> 
-<img src="https://img.shields.io/github/followers/felipeand7?label=Followers&style=for-the-badge&color=22c55e" alt="followers" />
-
 </div>
+
+---
+
+## 🎓 Formação Acadêmica
+
+<p align="center">
+  <img src="https://ifbaiano.edu.br/portal/wp-content/themes/ReitoriaIfbaianoPortal/imagens/marca-if-baiano.svg" alt="IF Baiano" height="60" /><br/>
+  <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
+  <strong>Instituto Federal Baiano (IF Baiano) – Campus Guanambi</strong><br/>
+  <em>2024 – 2026 (cursando)</em>
+</p>
 
 ---
 
