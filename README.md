@@ -18,7 +18,7 @@
 <p align="center">
   <img src="Logo_if.png" alt="IF Baiano" height="80" /><br/>
   <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
-  <strong>Instituto Federal Baiano (IF Baiano) – Campus Guanambi</strong><br/>
+  <strong>Instituto Federal Baiano (IF Baiano)</strong><br/>
   <em>2025 – 2027 (cursando)</em>
 </p>
 
