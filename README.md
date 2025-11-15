@@ -16,7 +16,7 @@
 ## 🎓 Formação Acadêmica
 
 <p align="center">
-  <img src="https://ifbaiano.edu.br/portal/wp-content/themes/ReitoriaIfbaianoPortal/imagens/marca-if-baiano.svg" alt="IF Baiano" height="60" /><br/>
+  <img src="https://raw.githubusercontent.com/felipeand7/felipeand7/main/marca-if-baiano.jpg" alt="IF Baiano" height="80" /><br/>
   <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
   <strong>Instituto Federal Baiano (IF Baiano) – Campus Guanambi</strong><br/>
   <em>2024 – 2026 (cursando)</em>
