@@ -31,10 +31,12 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 
-Desenvolvedor **Front-End** focado em **JavaScript**, **TypeScript** e **React**, criando interfaces web modernas, responsivas e bem estruturadas.  
-Atualmente estudando **Análise e Desenvolvimento de Sistemas** no **IF Baiano – Campus Guanambi**, com foco em desenvolvimento web e boas práticas de código.  
+Desenvolvedor Front-End com experiência prática na construção de interfaces web modernas, acessíveis e bem estruturadas, do layout ao deploy.
 <br/>
-Buscando oportunidade como **Dev Front-End Júnior** para aplicar habilidades em projetos reais e evoluir profissionalmente.  
+Possuo conhecimento em desenvolvimento web utilizando HTML, CSS, JavaScript, TypeScript, React e Git, sempre buscando escrever código legível, testável e fácil de manter.Atualmente
+curso Análise e Desenvolvimento de Sistemas no IF Baiano – Campus Guanambi e mantenho uma rotina constante de estudo, revisitando fundamentos e explorando novas ferramentas.
+<br/>
+Não tenho apego a pilha específica: estou aberto e preparado para aprender qualquer tecnologia que faça sentido para o produto e para o tempo, assumindo responsabilidade pelas entregas e pela qualidade do que coloco em produção.
 
 <br clear="right"/>
 
