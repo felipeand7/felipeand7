@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header" alt="header wave" />
-</p>
 
 <div align="center">
 
