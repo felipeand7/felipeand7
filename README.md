@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi There! <img src="https://komarev.com/ghpvc/?username=felipeand7&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/felipeand7?label=Followers&style=for-the-badge&color=22c55e" alt="followers" />
+# 👋 Hi There!  <img src="https://komarev.com/ghpvc/?username=felipeand7&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/felipeand7?label=Followers&style=for-the-badge&color=22c55e" alt="followers" />
 
 ### I'm Felipe Andrade
 
