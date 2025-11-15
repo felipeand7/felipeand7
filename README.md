@@ -33,9 +33,11 @@
 
 Desenvolvedor Front-End com experiência prática na construção de interfaces web modernas, acessíveis e bem estruturadas, do layout ao deploy.
 <br/>
+
 Possuo conhecimento em desenvolvimento web utilizando HTML, CSS, JavaScript, TypeScript, React e Git, sempre buscando escrever código legível, testável e fácil de manter.Atualmente
 curso Análise e Desenvolvimento de Sistemas no IF Baiano – Campus Guanambi e mantenho uma rotina constante de estudo, revisitando fundamentos e explorando novas ferramentas.
 <br/>
+
 Não tenho apego a pilha específica: estou aberto e preparado para aprender qualquer tecnologia que faça sentido para o produto e para o tempo, assumindo responsabilidade pelas entregas e pela qualidade do que coloco em produção.
 
 <br clear="right"/>
