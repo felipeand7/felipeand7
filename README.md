@@ -1,22 +1,5 @@
 <p align="center">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
-    <defs>
-      <linearGradient id="waveGradientTop" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#6366f1"/>
-        <stop offset="100%" stop-color="#22c55e"/>
-      </linearGradient>
-    </defs>
-    <style>
-      .wave-top {
-        animation: moveWaveTop 12s linear infinite;
-      }
-      @keyframes moveWaveTop {
-        0% { transform: translateX(0); }
-        100% { transform: translateX(-200px); }
-      }
-    </style>
-    <path class="wave-top" fill="url(#waveGradientTop)" d="M0,80 C 300,120 900,40 1200,80 L 1200,0 L 0,0 Z"></path>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header" alt="header wave" />
 </p>
 
 <div align="center">
@@ -27,7 +10,7 @@
 
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%92%BB;JavaScript+%26+React+Enthusiast+%E2%9A%A1;Always+learning+and+improving+%F0%9F%93%9A;Building+modern+web+experiences+%F0%9F%8C%90" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%92%BB;JavaScript+%26+TypeScript+%26+React;Always+learning+and+improving+%F0%9F%93%9A" 
     alt="Typing SVG" 
   />
 </a>
@@ -36,25 +19,25 @@
 
 ---
 
-## ☕ About Me!
+## ☕ Sobre mim
 
-### 👨‍💻 Front-End Web Developer | JavaScript & React
+### 👨‍💻 Desenvolvedor Web Front-End | JavaScript e React
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 
-Hello! I am **Felipe Andrade**, a **Front-End Web Developer** focused on building modern web interfaces using **HTML**, **CSS**, **JavaScript** and **React**.  
+Olá! Sou **Felipe Andrade**, um **desenvolvedor web front-end** especializado na criação de interfaces web modernas usando **HTML**, **CSS**, **JavaScript** e **React**.  
 
-I am currently studying **Análise e Desenvolvimento de Sistemas** at **UniFG Centro Universitário (2024–2026)** and complementing my formation with courses from **Origamid**, **Rocketseat** and **Estácio**.  
+Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Educação, Ciência e Tecnologia Baiano (IF Baiano)**, impulsionado por um desejo real de aprender, evoluir e contribuir para o mundo digital.  
 
-Meu objetivo é atuar como desenvolvedor **Front-End** júnior, criando interfaces responsivas, acessíveis e bem estruturadas, enquanto aprofundo meus conhecimentos em JavaScript moderno e no ecossistema React.  
+Meu objetivo é atuar como desenvolvedor **Front-End** júnior, criando interfaces responsivas, acessíveis e bem estruturadas, enquanto aprofundo meus conhecimentos em JavaScript moderno, TypeScript e no ecossistema React.  
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Connect with Me!
+## 🌐 Conecte-se comigo
 
-**Let's build something amazing together! Feel free to reach out through any of these platforms:**
+**Vamos construir algo incrível juntos!**
 
 <p>
   <a href="https://github.com/felipeand7" target="_blank">
@@ -66,11 +49,14 @@ Meu objetivo é atuar como desenvolvedor **Front-End** júnior, criando interfac
   <a href="https://wa.me/5562998407863" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+  <a href="https://www.linkedin.com/in/felipeand-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 📧 **Email:** felipeand.webdev@gmail.com  
-📱 **Phone:** +55 62 9 9840-7863  
-📍 **Location:** Guanambi – BA, Brasil  
+📱 **Telefone:** +55 62 9 9840-7863  
+📍 **Localização:** Guanambi – BA, Brasil  
 
 ---
 
@@ -80,8 +66,8 @@ Meu objetivo é atuar como desenvolvedor **Front-End** júnior, criando interfac
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
 <p>
@@ -99,11 +85,11 @@ Meu objetivo é atuar como desenvolvedor **Front-End** júnior, criando interfac
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:-----------|:---------------|:---------------|:-------:|
-| **Animais Fantásticos** | Projeto final do curso de JavaScript da Origamid, com animações, navegação dinâmica e módulos JS organizados. | `HTML` `CSS` `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Animais-Fant-sticos.github.io) |
-| **Bikcraft Elétrica** | Versão de site para venda de bicicletas elétricas, focando em layout responsivo e boas práticas de HTML e CSS. | `HTML` `CSS` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/bikcraft-eletrica.github.io) |
-| **Bikcraft** | Meu primeiro site completo, criado no curso da Origamid, praticando estruturação de páginas, grid e tipografia. | `HTML` `CSS` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/bikcraft) |
-| **LinkBios** | Página de links estilo Linktree para centralizar redes sociais e contatos. | `HTML` `CSS` | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/LinkBios) |
-| **Projeto_Escalonamento_SO** | Projeto acadêmico simulando algoritmos de escalonamento de processos em Sistemas Operacionais (UniFG). | `Java` (acadêmico) | [<img src="https://img.shields.io/badge/GitHub-Repository-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Projeto_Escalonamento_SO) |
+| **Animais Fantásticos** | Projeto final do curso de JavaScript da Origamid, com animações, navegação dinâmica e módulos JS organizados. | `HTML` `CSS` `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-Animais_Fant%C3%A1sticos-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Animais-Fant-sticos.github.io) |
+| **Estudos-react** | Repositório de estudos em React, explorando componentes, props, estado e organização de pastas. | `React` `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-Estudos_react-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Estudos-react) |
+| **react-sass** | Projeto em React com SASS para praticar componentização, estilos reutilizáveis e estrutura de pastas. | `React` `JavaScript` `SASS` | [<img src="https://img.shields.io/badge/GitHub-react_sass-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/react-sass) |
+| **desafio-front** | Desafio front-end em TypeScript focado em boas práticas, tipagem estática e organização de código. | `TypeScript` | [<img src="https://img.shields.io/badge/GitHub-desafio_front-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/desafio-front) |
+| **tabnews** | Implementação de projeto estilo TabNews para praticar JavaScript moderno, rotas e consumo de API. | `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-tabnews-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/tabnews) |
 
 </div>
 
@@ -129,7 +115,7 @@ Best-Foods é um site de delivery de comida desenvolvido em React, onde aprimore
 <td width="50%" valign="top">
 
 <h3>✅ Lista de Tarefas – Angular & NodeJS</h3>
-<p><strong>Projeto Acadêmico • UniFG</strong><br/>
+<p><strong>Projeto Acadêmico • IF Baiano</strong><br/>
 📅 2024</p>
 
 <p align="justify">
@@ -142,11 +128,11 @@ Aplicação CRUD de lista de tarefas desenvolvida em equipe, utilizando Angular 
 <td width="50%" valign="top">
 
 <h3>🎓 Atividades-Faculdade</h3>
-<p><strong>UniFG • Exercícios Acadêmicos</strong><br/>
+<p><strong>IF Baiano • Exercícios Acadêmicos</strong><br/>
 📅 2024</p>
 
 <p align="justify">
-Repositório com minha primeira atividade da faculdade, explorando fundamentos de programação e lógica em Java, como parte da disciplina de introdução à programação.
+Repositório com atividades da faculdade, explorando fundamentos de programação e lógica em Java e outras tecnologias, como parte das disciplinas iniciais do curso.
 </p>
 
 </td>
@@ -198,24 +184,7 @@ Repositório com minha primeira atividade da faculdade, explorando fundamentos d
 ---
 
 <p align="center">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
-    <defs>
-      <linearGradient id="waveGradientBottom" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#22c55e"/>
-        <stop offset="100%" stop-color="#6366f1"/>
-      </linearGradient>
-    </defs>
-    <style>
-      .wave-bottom {
-        animation: moveWaveBottom 12s linear infinite;
-      }
-      @keyframes moveWaveBottom {
-        0% { transform: translateX(0); }
-        100% { transform: translateX(200px); }
-      }
-    </style>
-    <path class="wave-bottom" fill="url(#waveGradientBottom)" d="M0,40 C 300,0 900,80 1200,40 L 1200,120 L 0,120 Z"></path>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer" alt="footer wave" />
 </p>
 
 **© 2025 Felipe Andrade | Built with ❤️ and ☕**
