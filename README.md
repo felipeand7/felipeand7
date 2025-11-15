@@ -26,13 +26,14 @@
 
 ## ☕ Sobre mim
 
-### 👨‍💻 Desenvolvedor Web Front-End | JavaScript e React
+### 👨‍💻 Desenvolvedor Web Front-End 
 <br/>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 
 Desenvolvedor **Front-End** focado em **JavaScript**, **TypeScript** e **React**, criando interfaces web modernas, responsivas e bem estruturadas.  
 Atualmente estudando **Análise e Desenvolvimento de Sistemas** no **IF Baiano – Campus Guanambi**, com foco em desenvolvimento web e boas práticas de código.  
+<br/>
 Buscando oportunidade como **Dev Front-End Júnior** para aplicar habilidades em projetos reais e evoluir profissionalmente.  
 
 <br clear="right"/>
