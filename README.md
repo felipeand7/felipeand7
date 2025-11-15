@@ -20,12 +20,12 @@
 ### 👨‍💻 Desenvolvedor Web Front-End | JavaScript e React
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Instituto_Federal_Baiano_-_Marca_Horizontal_2015.svg/256px-Instituto_Federal_Baiano_-_Marca_Horizontal_2015.svg.png" alt="IF Baiano" height="32" />
-  <strong> Análise e Desenvolvimento de Sistemas</strong> · Instituto Federal Baiano – Campus Guanambi (2024–2026, cursando)
+  <img src="https://img.shields.io/badge/IF%20Baiano-006400?style=for-the-badge" alt="IF Baiano" height="28" />
+  <strong> Análise e Desenvolvimento de Sistemas · IF Baiano – Campus Guanambi (2024–2026, cursando)</strong>
 </p>
 
-Olá! Sou **Felipe Andrade**, um **desenvolvedor web front-end** focado em **JavaScript**, **TypeScript** e **React**, criando interfaces modernas, responsivas e bem estruturadas.  
-Tenho 20 anos, moro em Guanambi–BA e estou construindo minha carreira em desenvolvimento Front-End, sempre buscando aprender coisas novas e aplicar na prática em projetos reais.  
+Sou **Felipe Andrade**, desenvolvedor web front-end focado em **JavaScript**, **TypeScript** e **React**.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** no **IF Baiano – Campus Guanambi** e busco oportunidades como desenvolvedor Front-End júnior para aplicar e evoluir minhas habilidades na prática.  
 
 ---
 
@@ -79,9 +79,9 @@ Tenho 20 anos, moro em Guanambi–BA e estou construindo minha carreira em desen
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:-----------|:---------------|:---------------|:-------:|
-| **Best-Foods – React** | Aplicação de delivery de comida em React, trabalhando componentização, hooks e organização de pastas. | `React` `JavaScript` `CSS` | [<img src="https://img.shields.io/badge/GitHub-Best_Foods-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Best-Foods) |
+| **Best-Foods – React** | Aplicação de delivery de comida em React, trabalhando componentização, hooks e organização de pastas. | `React` `JavaScript` `CSS` | [<img src="https://img.shields.io/badge/GitHub-best_foods_react-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/best-foods-react) |
 | **Animais Fantásticos** | Projeto final do curso de JavaScript da Origamid, com animações, navegação dinâmica e módulos JS organizados. | `HTML` `CSS` `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-Animais_Fant%C3%A1sticos-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Animais-Fant-sticos.github.io) |
-| **Bikcraft** | Meu primeiro site completo do curso Origamid, focado em layout, tipografia e boas práticas de HTML/CSS. | `HTML` `CSS` | [<img src="https://img.shields.io/badge/GitHub-bikcraft-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/bikcraft) |
+| **Bikcraft** | Meu primeiro site completo do curso Origamid, focado em layout, tipografia e boas práticas de HTML/CSS. | `HTML` `CSS` `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-bikcraft-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/bikcraft) |
 | **Estudos-react** | Repositório de estudos em React, explorando componentes, props, estado e organização de pastas. | `React` `JavaScript` | [<img src="https://img.shields.io/badge/GitHub-Estudos_react-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/Estudos-react) |
 | **desafio-front** | Desafio front-end utilizando TypeScript, CSS, JavaScript e HTML, com foco em boas práticas e tipagem estática. | `TypeScript` `CSS` `JavaScript` `HTML` | [<img src="https://img.shields.io/badge/GitHub-desafio_front-6366F1?style=for-the-badge&logo=github" height="25"/>](https://github.com/felipeand7/desafio-front) |
 
