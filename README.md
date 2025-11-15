@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%92%BB;JavaScript+%26+TypeScript+%26+React;Always+learning+and+improving+%F0%9F%93%9A" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%92%BB;JavaScript+%26+TypeScript+%26+React;Always+learning+and+improving+%F0%9F%93%9A" 
     alt="Typing SVG" 
   />
 </a>
@@ -16,7 +16,7 @@
 ## 🎓 Formação Acadêmica
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/felipeand7/felipeand7/main/marca-if-baiano.jpg" alt="IF Baiano" height="80" /><br/>
+  <img src="Logo_if.png" alt="IF Baiano" height="80" /><br/>
   <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
   <strong>Instituto Federal Baiano (IF Baiano) – Campus Guanambi</strong><br/>
   <em>2024 – 2026 (cursando)</em>
