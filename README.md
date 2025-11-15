@@ -1,6 +1,13 @@
 <div align="center">
 
-# 👋 Hi There!  <img src="https://komarev.com/ghpvc/?username=felipeand7&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/felipeand7?label=Followers&style=for-the-badge&color=22c55e" alt="followers" />
+<p align="left">
+  <img src="https://ifbaiano.edu.br/portal/wp-content/themes/ReitoriaIfbaianoPortal/imagens/marca-if-baiano.svg" alt="IF Baiano" height="40" align="left" />
+  <span>
+    <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
+    <strong>Instituto Federal Baiano (IF Baiano) – Campus Guanambi</strong><br/>
+    <em>2024 – 2026 (cursando)</em>
+  </span>
+</p>
 
 ### I'm Felipe Andrade
 
@@ -10,6 +17,7 @@
     alt="Typing SVG" 
   />
 </a>
+<img src="https://komarev.com/ghpvc/?username=felipeand7&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/felipeand7?label=Followers&style=for-the-badge&color=22c55e" alt="followers" />
 
 </div>
 
@@ -17,33 +25,16 @@
 
 ## ☕ Sobre mim
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+### 👨‍💻 Desenvolvedor Web Front-End | JavaScript e React
+<br/>
 
-      <p align="left">
-        <img src="https://ifbaiano.edu.br/portal/wp-content/themes/ReitoriaIfbaianoPortal/imagens/marca-if-baiano.svg" alt="IF Baiano" height="40" align="left" />
-        <span>
-          <strong style="color:#ffffff;">Análise e Desenvolvimento de Sistemas</strong><br/>
-          <strong style="color:#ffffff;">Instituto Federal Baiano (IF Baiano) – Campus Guanambi</strong><br/>
-          <em style="color:#d4d4d4;">2024 – 2026 (cursando)</em>
-        </span>
-      </p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
 
-      <br/>
+Desenvolvedor **Front-End** focado em **JavaScript**, **TypeScript** e **React**, criando interfaces web modernas, responsivas e bem estruturadas.  
+Atualmente estudando **Análise e Desenvolvimento de Sistemas** no **IF Baiano – Campus Guanambi**, com foco em desenvolvimento web e boas práticas de código.  
+Buscando oportunidade como **Dev Front-End Júnior** para aplicar habilidades em projetos reais e evoluir profissionalmente.  
 
-      Desenvolvedor <strong>Front-End</strong> focado em <strong>JavaScript</strong>, <strong>TypeScript</strong> e <strong>React</strong>, criando interfaces web modernas, responsivas e bem estruturadas.  
-      Atualmente estudando <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>IF Baiano – Campus Guanambi</strong>, com foco em desenvolvimento web e boas práticas de código.  
-      Buscando oportunidade como <strong>Dev Front-End Júnior</strong> para aplicar habilidades em projetos reais e evoluir profissionalmente.
-
-    </td>
-    <td width="45%" valign="top" align="center">
-
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding">
-
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
