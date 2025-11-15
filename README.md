@@ -187,8 +187,4 @@ Repositório com atividades da faculdade, explorando fundamentos de programaçã
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer" alt="footer wave" />
-</p>
-
 **© 2025 Felipe Andrade | Built with ❤️ and ☕**
