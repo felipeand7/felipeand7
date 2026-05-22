@@ -24,6 +24,7 @@
 
 ---
 
+<!--
 ## ☕ Sobre mim
 
 ### 👨‍💻 Desenvolvedor Web
@@ -41,8 +42,8 @@ Não tenho apego a pilha específica: estou aberto e preparado para aprender qua
 
 <br clear="right"/>
 
----
-
+---    
+-->
 ## 🌐 Conecte-se comigo
 
 **Vamos construir algo incrível juntos!**
