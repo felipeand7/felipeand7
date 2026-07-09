@@ -35,7 +35,7 @@
 Desenvolvedor Front-End com experiência prática na construção de interfaces web modernas, acessíveis e bem estruturadas, do layout ao deploy.
 <br/>
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas no IF Baiano – Campus Guanambi e mantenho uma rotina constante de estudo, revisitando fundamentos e explorando novas ferramentas.
+Atualmente, curso Análise e Desenvolvimento de Sistemas no IF Baiano – Mantenho uma rotina constante de estudo, revisitando fundamentos e explorando novas ferramentas.
 <br/>
 
 Não tenho apego a pilha específica: estou aberto e preparado para aprender qualquer tecnologia que faça sentido para o produto e para o tempo, assumindo responsabilidade pelas entregas e pela qualidade do que coloco em produção.
@@ -65,8 +65,6 @@ Não tenho apego a pilha específica: estou aberto e preparado para aprender qua
 
 📧 **Email:** felipeand.webdev@gmail.com  
 📱 **Telefone:** +55 62 9 9840-7863  
-📍 **Localização:** Guanambi – BA, Brasil  
-
 ---
 
 ## 💻 Tech Stack
